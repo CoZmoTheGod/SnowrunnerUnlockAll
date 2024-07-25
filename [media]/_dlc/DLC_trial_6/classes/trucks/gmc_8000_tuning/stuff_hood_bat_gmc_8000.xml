@@ -1,0 +1,11 @@
+<_parent File="stuff_hood_bat_ford_f750" />
+<TruckAddon>
+	<PhysicsModel Mesh="trucks/gmc_8000_tuning/stuff_hood_bat_gmc_8000" />
+	<GameData
+		Price="0"
+		UnlockByExploration="false"
+		UnlockByRank="0"
+	>
+		<InstallSocket Type="StuffHoodGmc8000" />
+	</GameData>
+</TruckAddon>

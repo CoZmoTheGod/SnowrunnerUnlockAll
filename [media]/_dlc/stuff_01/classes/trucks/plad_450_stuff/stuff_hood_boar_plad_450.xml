@@ -1,0 +1,12 @@
+<_parent File="stuff_hood_boar_ford_f750" />
+<TruckAddon>
+	<PhysicsModel Mesh="trucks/plad_450_stuff/stuff_hood_boar_plad_450" />
+	<GameData
+		Price="0"
+		UnlockByExploration="false"
+		UnlockByRank="0"
+		CameraPreset="hood_figure"
+	>
+		<InstallSocket Type="StuffHoodBurlak" />
+	</GameData>
+</TruckAddon>
